@@ -1,0 +1,28 @@
+{
+  "name": "bill-entertainment",
+  "version": "1.0.0",
+  "description": "entertainment website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-uno/bill-entertainment.git"
+  },
+  "keywords": [
+    "vdj",
+    "dj",
+    "bill",
+    "entertainment"
+  ],
+  "author": "MOSETI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/el-uno/bill-entertainment/issues"
+  },
+  "homepage": "https://github.com/el-uno/bill-entertainment#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
